@@ -7,9 +7,6 @@ hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#1
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&amp&sni=www.cloudflare.com#114-2🇳🇱🇺🇸
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#114-3🇳🇱🇺🇸
 hy2://123456789StrongPass@144.31.224.14:443?insecure=1&allowInsecure=1#114-4🇳🇱🇺🇸
-hy2://123456789StrongPass@144.31.224.14:443?security=tls&allowInsecure=true#114-5🇳🇱🇺🇸
-hy2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflare.com&allowInsecure=true#114-6🇳🇱🇺🇸
-hy2://123456789StrongPass@144.31.224.14:443?upmbps=10&downmbps=50&security=tls&sni=eh.@solidtrust.com&allowInsecure=true#114-7🇳🇱🇺🇸
 hy2://123456789StrongPass@144.31.224.14:443?sni=www.cloudflare.com&insecure=1&allowInsecure=1#114-8🇳🇱🇺🇸
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#114-9🇳🇱🇺🇸
 hy2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1&sni=eh.vk.com#114-10🇳🇱🇺🇸
