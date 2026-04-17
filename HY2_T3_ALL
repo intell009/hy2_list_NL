@@ -46,4 +46,4 @@ hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#4
 hy2://ea8d14d4-ca12-4cd1-bcad-f0fa72f6eadc@212.193.18.60:8443/?insecure=1#46
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#47
 hysteria2://fb211338854624f161f1Ea3D9584E2DEFE7c10A3@sde.dbp.qzz.io:8443?sni=dbp.qzz.io&insecure=1#48
-hysteria2://fb211338854624f161f1Ea3D9584E2DEFE7c10A3@sde.dbp.qzz.io:8443?insecure=1&sni=dbp.qzz.io#%49
+hysteria2://fb211338854624f161f1Ea3D9584E2DEFE7c10A3@sde.dbp.qzz.io:8443?insecure=1&sni=dbp.qzz.io#49
