@@ -13,3 +13,7 @@ hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mgg
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-016.fastervpn.world:443?insecure=1&sni=vpn-jp-016.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
 hysteria2://820409af-997a-41c4-9e51-46f373951a39@144.24.74.102:50914?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Chuncheon-si%20%7C%20%5BBL%5D
 hysteria2://hysteria2_fastlane_gvhjqqhs5%3Afa9BG0K2anbTthiGCpus2Dq82LUuPYUp@144.31.134.98:1935?insecure=1&sni=nl1.h.smartaisupport.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Centrum%29%20%7C%20%5BBL%5D
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#cf
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.google.com#google
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.apple.com#apple
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1#clean
