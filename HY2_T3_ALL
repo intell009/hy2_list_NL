@@ -7,8 +7,8 @@ hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?insecure=1#6
 hysteria2://fb211338854624f161f1Ea3D9584E2DEFE7c10A3@sde.dbp.qzz.io:8443?security=tls&insecure=1&sni=dbp.qzz.io#7
 hysteria2://hysteria_master_password@72.56.122.195:443?encryption=none&sni=google.com&insecure=1#8
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#9
-hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#10
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#11
+hysteria2://linux.do@2a01:4f9:4b:f378::1:13599?sni=www.bing.com&insecure=1#10-1
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#11-1
 hysteria2://rstnnl:OdAee0iXQALGJNhMVDnhA79WZoyqMse6@yespaintstudio.rav-kraski.ru:2026?obfs=salamander&obfs-password=3s1TcxUAhVlRLnrdgxkBnjEtdk9QilsV&sni=yespaintstudio.rav-kraski.ru#10
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?sni=vpn-sg-001.fastervpn.world&insecure=1#11
 hysteria2://hrxvl5n08w@54.169.235.155:23943?insecure=1#12
