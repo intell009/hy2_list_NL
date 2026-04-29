@@ -2,3 +2,8 @@ hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855/?insecure=1&sni=www.microsoft.com#0003|🇩🇪|
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#0004|🇩🇪|
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:443?headerType=none&encryption=none&sni=live.ok.ru&alpn=h3&insecure=1#0005|🇫🇮|
+hysteria2://123456789StrongPass@144.31.224.14:443?headerType=none&encryption=none&sni=eh.vk.com&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1&sni=eh.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
