@@ -8,7 +8,6 @@ vless://8e66502a-83ca-47d7-a3b5-a65daf457ecf@ru.rush-server.com:8443?security=re
 vless://08a20674-fe78-4eae-bcd8-6f44480a3392@se.prowebcore.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=91j4nGhBDQYcZP0AHXJgu1jnrFNRp27DIhN0Verhfhw&security=reality&sid=5ac24c1ada080cc6&sni=se.prowebcore.ru&type=tcp#0037|V|🇷🇺|
 vless://08a20674-fe78-4eae-bcd8-6f44480a3392@se.prowebcore.ru:443?security=reality&encryption=none&echfq=none&pbk=91j4nGhBDQYcZP0AHXJgu1jnrFNRp27DIhN0Verhfhw&headerType=none&fp=random&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=se.prowebcore.ru&sid=5ac24c1ada080cc6#0038|V|🇷🇺|
 vless://69df189a-08d2-4585-b942-1dc5eaf6f854@sw.ultrafastcloud.onnstreaming.ru:443?security=reality&encryption=none&pbk=CO7La1s2PloFo4HYoM53zE5XtQ7cGpAHzKS2GYGw_UY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw.ultrafastcloud.onnstreaming.ru&sid=e8e019c424ccb765#0039|V|🇷🇺|
-VL_T1_EU
 
 vless://7e9a39eb-a9b0-2e38-26da-d27b1a95904d@84.252.101.99:8449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=fkyi1t1t2L-ER79yU5P2HTBTgFG03GyeY9FjNQpkfiE&sid=55555555#0001|V|🇪🇪|
 vless://7f7e4a3d-fc70-4ec6-9f06-27d5db2c6cf9@51.250.13.3:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=UEKLXjQmUAh_6hhHqB4fmCo68a15hC18hgRCWbzr3UE&sid=27e53bbcab7593d7&spx=%2F#0002|V|🇫🇷|
