@@ -1,0 +1,8 @@
+﻿-------ALIVE-------
+Anycast 🇺🇳
+
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa#🇺🇳_0001
+vless://530eaa91-28a0-46ae-bc63-57384362ba6b@46.149.78.27:17113?encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=516wV7sLhUaSh5zqVbgyo-otX3ii13GgHJngRPhbflg&sid=fe013b8818613e&spx=/#🇺🇳_0002
+
+-----UNSTABLE------
+-------DEAD-------
