@@ -17,3 +17,5 @@ hysteria2://abc123@pl1-lite.epichost.pl:10090?insecure=1&sni=pl1-lite.epichost.p
 hysteria2://abc123@pl1-lite.epichost.pl:10090?headerType=none&encryption=none&sni=pl1-lite.epichost.pl&insecure=1#🇵🇱_0016
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#🇬🇧_0017
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?insecure=1&sni=flkf.mangshe.xyz#🇩🇪_0018
+hysteria2://abc123@pl1-lite.epichost.pl:10090?headerType=none&encryption=none&sni=pl1-lite.epichost.pl&insecure=1#_0019
+hysteria2://abc123@pl1-lite.epichost.pl:10090?insecure=1&sni=pl1-lite.epichost.pl#_0020
